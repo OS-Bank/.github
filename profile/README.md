@@ -1,7 +1,5 @@
 <p align="center">
 
-<h2 align="center">Welcome</h2>
-
 <details open="open">
 <summary>Table of Contents</summary>
 <ol>
