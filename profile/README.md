@@ -1,5 +1,3 @@
-<p align="center">
-
 <details open="open">
 <summary>Table of Contents</summary>
 <ol>
